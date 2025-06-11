@@ -1,55 +1,73 @@
-# AlgoBharat Live Hack Submission Template
+# 🧠 AlgoBharat Live Hack – Submission Template
 
-Welcome to the official submission format for the **Live Hack Challenge**.
+Welcome to the official submission template for the **Live Hack Challenge**.
 
----
-
-## 🔀 How to Participate
-
-You can choose **one of two submission approaches**:
-
-### Option 1: Build a Complete Project
-🎯 Think of a real-world project like:
-- 🕹️ A game with in-game currency
-- 🎓 University certificate issuance
-- 🏥 Hospital records using tokens
-- 💳 Rewards/loyalty system, etc.
-
-Implement the 7 challenge tasks within that project.  
-📈 The more tasks your project covers, the more points you earn.  
-✅ **Ideal scenario**: Project implements **all 7 tasks** → max score.
-
-If you go with this option:
-- Create **one repository**
-- Mention in the `README.md`:
-  - What the project is
-  - Which tasks (1-7) are implemented
-- Add all related code inside the project folder
-- Include your final demo video link(5–8 min)
+You can choose one of the two submission paths below:
 
 ---
 
-### Option 2: Submit Individual Tasks
-Don't want to build a complete project? No problem!
+## ✅ Submission Options
 
-✅ You can choose to implement **any of the 7 tasks individually**,  
-based on your/team's capabilities.
+### Option 1: Full Project Submission (`project_name/`)
+Build a complete project such as a game, university certificate system, healthcare solution, etc., where you implement some or all of the 7 tasks as part of a **real-world use case**.
 
-Use the provided folder structure (below), and:
-- Put code, screenshots, notes in each relevant task folder
-- Add a final demo video explaining what you've implemented
+**What to do:**
+- Create your project `project_name/` folder.
+- Add your code, assets, and documentation.
+- Include a `README.md` inside `project_name/` explaining:
+  - What your project does
+  - Which of the 7 tasks you’ve implemented
+- Include a **final demo video link (5–8 mins)** showcasing your implementation.
+
+**Ideal Case:**  
+If your project implements **all 7 tasks**, you’ll get **maximum points**, as each task has assigned scores.
 
 ---
 
-## 📁 Folder Structure (for Task-Based Approach)
+### Option 2: Task-Based Submission (`tasks_only/`)
+If you're not building a full project, you can directly complete individual tasks (1–7) as standalone exercises.
 
-If you're doing individual tasks, use this format:
-├── Task-1-Create-Token/
-├── Task-2-Metadata-Control/
-├── Task-3-Smart-Contract/
-├── Task-4-Multisig/
-├── Task-5-Application/
-├── Task-6-Advanced-Features/
-├── Task-7-Innovation/
+**What to do:**
+- Navigate to the `tasks_only/` folder.
+- Inside, you'll find subfolders for each task.
+- Complete any number of tasks based on your capabilities.
+- Add your code and a brief `README.md` inside each completed task folder.
+- Include a **final demo video (5–8 mins)** where you walk through which tasks you’ve completed and how.
 
-Happy Hacking
+---
+
+## 📂 Folder Structure
+
+<pre>
+For Option 1: Full Project Submission
+|-- project_name/
+|   |-- your_code_files
+|   |-- README.md                  ## Describe your full project and tasks implemented with video llink
+
+For Option 2: Task-Based Submission  
+|-- tasks_only/
+    |-- Task-1-name/
+    |   |-- your_code_files
+    |   |-- README.md
+    |-- Task-2-name/
+    |-- Task-3-name/
+    |-- Task-4-name/
+    |-- Task-5-name/
+    |-- Task-6-name/
+    |-- Task-7-name/
+|   |-- README.md                   ## Describe your completed tasks with video link
+</pre>
+---
+
+## 🎥 Final Video Submission (Mandatory)
+
+In both submission formats, include a **5–8 minute demo video link**:
+- Walk through what you've built
+- Clearly mention which of the 7 tasks you’ve implemented
+- Provide a **YouTube link or Drive Link**
+
+---
+
+Let us know in the Discord channel if you have any questions.  
+Good luck and happy hacking! 🚀
+
