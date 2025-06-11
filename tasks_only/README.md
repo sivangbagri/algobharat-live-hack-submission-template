@@ -1,10 +1,11 @@
 This folder is for participants submitting individual tasks (1–7).
-
+<pre>
 Please follow the subfolder structure:
-├── Task-1-Create-Token/
-├── Task-2-Metadata-Control/
-├── Task-3-Smart-Contract/
-├── Task-4-Multisig/
-├── Task-5-Application/
-├── Task-6-Advanced-Features/
-└── Task-7-Innovation/
+├── Task-1-name/
+├── Task-2-name/
+├── Task-3-name/
+├── Task-4-name/
+├── Task-5-name/
+├── Task-6-name/
+└── Task-7-name/
+</pre>
