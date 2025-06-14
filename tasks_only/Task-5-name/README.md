@@ -20,6 +20,10 @@ A modern React-based frontend for interacting with Algorand smart contracts, inc
 
 
 Demo : https://drive.google.com/file/d/1kcXlJO44rje63xv6sxS4dxJ0tJAQ56SP/view?usp=sharing
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/29340816-87a2-44d7-88b5-e269be4e433a" />
+
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/de27006e-8efb-4c25-b205-2f14da64ab7f" />
+
 
 
 ### Prerequisites
